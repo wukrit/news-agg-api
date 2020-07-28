@@ -42,4 +42,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rest-client", "~> 2.1"
 
-gem "json", "~> 2.2"
+gem "json", "~> 2.3"
